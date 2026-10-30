@@ -1,0 +1,6 @@
+{
+  "nome": "Raichu",
+  "tipo": "Raio",
+  "nivel": 35,
+  "dataDeCaptura": "2026-10-19"
+}
