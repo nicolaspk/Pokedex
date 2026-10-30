@@ -1,0 +1,6 @@
+{
+  "nome": "Pikachu",
+  "tipo": "Raio",
+  "nivel": 10,
+  "dataDeCaptura": "2026-10-19"
+}
